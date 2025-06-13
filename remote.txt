@@ -1,1 +1,25 @@
-gAAAAABoSs3KgiSh9kA1V9I6R+PdyC6Rpp9qnUT2nidcYgrEe31WMLaWiqKQ0OSbYfyjx8AtOegOTvZFc62tvjPLGDE1MxhlcFXYEUptcb4x2zJQegWL8Q2PQY3ps2XeSGtELi/11htEUlI4jlA8X3sguJl6D3w+js6/d47cGjJ0oLBfn/IQhLYnL3QlXPCkxv1A5pUkckT1xJUeG68mOvyNhv/GE2+Obl3+dhMT59I9CAwUv23PVCkK3JkkZo4lyMgeLpeWEEG74QF/8MMEK7NdJZWNn9ggHjRUuA99Ll/M7dygzfN4LDGNbF56tzgvhyd5n2WAHzxoJUTxJnw8RIvdyl9mSyucAEHMJu0MGNAddmTTiAv04JsciVE+b1vc13Hw+JczWfJMtU0lA8D/2YmPd4n/3d7jLSw2X8JK+bv0Cfvy0kW1z0D4p2o9gba8n21FmVXScbtJnGtQRKVLCf0/GYWVREpAljKUq6kxLUsa2GfqpGoT5ZUR6GpqHpGRyumRGafxAZsn05B7WAQkD8XsQmJeENtXbiXw0IwcEZvNb4IUvaDD4SU+mSI7ZFPv7Z7kMVp8QciAF0hvVvIzqCyAIo4HUTtrRwqM6tksWatyH+SptSWfp+vGuXM5d2Jl52WD0ffFBNwa2m00LnFJ5jxUDwnoyeUVZmDpiz+OkFKowX0MjD3Mz0YvMzcW3+6OWUXnLW483NkV+PIoM0kb/sdy1ndOB3KwsvhJWNRZZIAPqNZy7+ZHFvs=
+[
+  {
+        "config": "vless://0a6658f9-6fea-4eee-829d-d40aaa09d573@168.119.48.117:20372?type=ws&path=%2F&host=&security=none#q6d1ggsk",
+        "location": "Germany",
+        "country_code": "DE",
+        "is_premium": true
+
+  
+    },
+    {
+        "config": "vless://7f66d48b-b361-4c5f-8d0a-f51c73f41ae7@135.181.42.145:13840?type=ws&path=%2F&host=&security=none#818_FLASH_VPN-52p3fym8",
+        "location": "Finland",
+        "country_code": "FI",
+        "is_premium": false
+
+  
+    },
+    {
+        "config": "vless://f5c66fa0-2b21-49dc-a1a7-6e5af93043c7@168.119.48.117:29732?type=tcp&security=none#3m66ayko",
+        "location": "Germany2",
+        "country_code": "DE",
+        "is_premium": false
+
+  
+    }
